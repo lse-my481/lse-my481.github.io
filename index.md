@@ -1,9 +1,9 @@
 ---
-title: "MY481: Generative AI for Social Science Research"
+title: "LSE MY481"
 description: "LSE - Winter Term 2027"
 ---
 
-# MY481: Generative AI for Social Science Research
+# Generative AI for Social Science Research
 
 **LSE Department of Methodology** \
 **Winter Term 2027**
