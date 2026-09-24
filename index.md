@@ -14,7 +14,7 @@ _The following information is subject to change. Check back for more information
 
 ### Part 1: Foundations
 
-**Week 1: How LLMs work** \ 
+**Week 1: How LLMs work** \
 Lecturer: [Ryan Hübert](https://www.lse.ac.uk/people/ryan-hubert)
 
 **Week 2: Accessing and running LLMs** \
@@ -45,8 +45,8 @@ Lecturer: [Thomas Robinson](https://www.lse.ac.uk/people/thomas-robinson)
 **Week 9: Interpretation at scale** \
 Lecturer: [Ryan Hübert](https://www.lse.ac.uk/people/ryan-hubert)
 
-**Week 10: Measurement at scale** \ 
+**Week 10: Measurement at scale** \
 Lecturer: [Patrick Sturgis](https://www.lse.ac.uk/people/patrick-sturgis)
 
-**Week 11: Generation and simulation** \ 
+**Week 11: Generation and simulation** \
 Lecturer: [Patrick Sturgis](https://www.lse.ac.uk/people/patrick-sturgis)
